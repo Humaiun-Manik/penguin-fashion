@@ -1,0 +1,28 @@
+/* google fonts  */
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap");
+
+/* common style or utilities */
+body {
+  font-family: "Roboto", sans-serif;
+}
+header {
+  background: #fffbf0;
+}
+
+.banner-title h1 {
+  font-weight: 400;
+  font-size: 80px;
+  color: #363958;
+}
+.banner-title span {
+  color: #fabe4c;
+}
+.banner-title p {
+  color: #3e3e3e;
+  font-weight: 400;
+  font-size: 16px;
+}
+.buy-now-btn {
+  background-color: #a4bc46;
+  color: #ffffff;
+}
