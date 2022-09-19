@@ -27,7 +27,12 @@ header {
   color: #ffffff;
 }
 
-.woman-jacket {
+.jacket img {
   background-color: #f1f1f1;
   border-radius: 20px;
+}
+.price-text {
+  color: #fabe4c;
+  font-size: 36px;
+  font-weight: 900;
 }
